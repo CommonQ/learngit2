@@ -1,0 +1,11 @@
+[33m61abb12[m HEAD@{0}: commit (amend): amend
+[33m0c3b65f[m HEAD@{1}: commit: master improved
+[33mae15030[m HEAD@{2}: checkout: moving from test to master
+[33m4b8e6c2[m HEAD@{3}: commit: test
+[33mae15030[m HEAD@{4}: checkout: moving from master to test
+[33mae15030[m HEAD@{5}: checkout: moving from develop to master
+[33m342d9e5[m HEAD@{6}: checkout: moving from master to develop
+[33mae15030[m HEAD@{7}: checkout: moving from 342d9e5c32baec4fbfa6466e7939c02304f115cb to master
+[33m342d9e5[m HEAD@{8}: checkout: moving from master to 342d9
+[33mae15030[m HEAD@{9}: commit: second commit
+[33m342d9e5[m HEAD@{10}: commit (initial): first commit
